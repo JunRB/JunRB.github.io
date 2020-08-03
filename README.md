@@ -48,7 +48,7 @@ it there would be no life on Earth at all.
 
 <table style="width:100%">
   <tr>
-    <th style="background-color:black;">Blank</th>
+    <th style="background-color:black;"></th>
     <th style="font-size:160%;">Earth</th> 
     <th style="font-size:160%;">Mars</th>
   </tr>

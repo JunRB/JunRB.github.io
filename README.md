@@ -1,6 +1,5 @@
 # JunRB.github.io
 
-<!DOCTYPE html>
 <html>
 
 <h1 style="color:SaddleBrown;">Geosphere</h1>

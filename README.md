@@ -2,47 +2,7 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-<title>Science Final Assessment(Geosphere)</title>
-<body style="background-color:BlanchedAlmond;">
-</head>
-<style>
-h1 {
-	font-size:350%;
-}
-p  {
-	font-size:130%
-}
-</style>
-<head>
-<style>
-table{
-	color: #4d4d4d;
-	font-family:arial, sans-serif;
-	border-collapse: collapse;
-	text-align: center;
-	width: 100%
-}
 
-td {
-	color: #4d4d4d;
-	border: 1px solid #010101;
-	text-align:a left;
-	padding: 8px;
-}
-
-th {
-	color: black;
-	border: 1px solid #010101;
-	text-align:a left;
-	padding: 8px;
-}
-
-tr:nth-child(even) {
-	background-color: #FFEBCD;
-}
-</style>
-</head>
 <h1 style="color:SaddleBrown;">Geosphere</h1>
 
 <h2 style="color:Sienna;"><b><u>Composition of the Earth</b></u></h2>
